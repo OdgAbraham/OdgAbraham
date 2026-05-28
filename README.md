@@ -1,14 +1,13 @@
 # 👋 Salut, moi c'est Abraham Ouedraogo
 
-**Développeur Web & Mobile** | Étudiant BTS IDA | Abidjan, Côte d'Ivoire  
-Passionné par la création de solutions digitales sur mesure — du Web classique à la Blockchain & Web3.
+**Développeur Web & Mobile** · Étudiant BTS IDA · Abidjan, Côte d'Ivoire  
+Je construis des solutions digitales concrètes — des apps de paiement crypto aux plateformes de mise en relation.
 
 ---
 
 ## 🛠️ Stack technique
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -18,19 +17,23 @@ Passionné par la création de solutions digitales sur mesure — du Web classiq
 
 ## 🚀 Projets
 
-| Projet | Description |
-|--------|-------------|
-| 🎵 [AudioPlay](https://github.com/OdgAbraham/AudioPlay) | Lecteur audio personnalisé |
-| 🌐 [OdgDev](https://github.com/OdgAbraham/OdgDev) | Site vitrine personnel |
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| 💱 Doubehi | Paiement Crypto ↔ FCFA | TypeScript |
+| 🎵 AudioPlay | Lecteur audio personnalisé | TypeScript |
+| 👷 MonOuvrier | Mise en relation prestataire/client | TypeScript |
+| 📈 CTOP | Plateforme Central Trading OP | TypeScript |
+| 🛡️ CTOP-Admin | Interface d'administration CTOP | TypeScript |
+| 🌐 OdgDev | Site vitrine personnel | JavaScript |
 
 ---
 
-## 📊 Stats GitHub
+## 📊 Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=OdgAbraham&show_icons=true&theme=default&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=OdgAbraham&show_icons=true&hide_border=true&theme=default)
 
 ---
 
-## 📬 Me contacter
+## 📬 Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-OdgAbraham-181717?style=flat&logo=github)](https://github.com/OdgAbraham)
